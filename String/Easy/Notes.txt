@@ -1,0 +1,2 @@
+We can use indexOf() to check existence of letter in string 
+contains() only works with string that's why use indexOf()
