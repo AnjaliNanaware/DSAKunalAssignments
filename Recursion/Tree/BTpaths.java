@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class BTPaths{
+public class BTpaths{
 
 //  Definition for a binary tree node.
  class TreeNode {
